@@ -1,0 +1,18 @@
+{
+  "name": "get-public-ipv4",
+  "version": "1.0.1",
+  "description": "Fetches the public IP address using the ipify.org API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "ip",
+    "public-ip",
+    "ipify",
+    "ipv4",
+    "network"
+  ],
+  "author": "Yunus Emre Buğuş <contem.fe@gmail.com>",
+  "license": "MIT"
+}
